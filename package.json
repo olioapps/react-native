@@ -131,7 +131,7 @@
   "dependencies": {
     "absolute-path": "^0.0.0",
     "art": "^0.10.0",
-    "babel-core": "6.6.4",
+    "babel-core": "6.18.0",
     "babel-plugin-external-helpers": "6.5.0",
     "babel-polyfill": "6.6.1",
     "babel-preset-react-native": "1.8.0",
